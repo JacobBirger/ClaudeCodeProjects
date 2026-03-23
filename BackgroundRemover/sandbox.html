@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"></head>
+<body>
+<!--
+  Sandboxed extension page.
+  Sandboxed pages are exempt from the strict extension CSP, so onnxruntime-web's
+  internal blob: dynamic imports are allowed here. The popup communicates with this
+  page via postMessage through an iframe.
+-->
+<script type="module" src="sandbox.js"></script>
+</body>
+</html>

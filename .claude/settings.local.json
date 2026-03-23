@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//usr/local/**)",
+      "Read(//usr/**)",
+      "Read(//c/Program Files/nodejs//**)",
+      "Read(//c/Users/JakeB/AppData/Roaming/**)",
+      "Read(//c/Users/JakeB/AppData/Local/**)",
+      "Bash(powershell.exe -Command \"Get-Command npm | Select-Object -ExpandProperty Source\")",
+      "Bash(\"/c/Program Files/nodejs/npm.cmd\" install)",
+      "Bash(PATH=\"/c/Program Files/nodejs:$PATH\" \"/c/Program Files/nodejs/npm.cmd\" install)",
+      "Bash(python3 -c \"import json,sys; p=json.load\\(sys.stdin\\); print\\(''''exports:'''', json.dumps\\(p.get\\(''''exports'''', {}\\), indent=2\\)\\); print\\(''''module:'''', p.get\\(''''module''''\\)\\); print\\(''''main:'''', p.get\\(''''main''''\\)\\); print\\(''''browser:'''', p.get\\(''''browser''''\\)\\)\")",
+      "Bash(python3 -m json.tool)",
+      "Bash(PATH=\"/c/Program Files/nodejs:$PATH\" \"/c/Program Files/nodejs/node.exe\" setup.js)"
+    ]
+  }
+}

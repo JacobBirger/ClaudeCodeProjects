@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BG Remover</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header>
+    <h1>BG Remover</h1>
+    <p class="subtitle">AI-powered, runs in your browser</p>
+  </header>
+
+  <div id="drop-zone" tabindex="0" role="button" aria-label="Paste or drop an image here">
+    <div class="drop-icon">&#128247;</div>
+    <p class="drop-primary">Paste image here</p>
+    <p class="drop-secondary">or drag &amp; drop a file</p>
+    <p class="drop-hint">Ctrl+V / Cmd+V</p>
+  </div>
+
+  <div id="status" hidden></div>
+
+  <div id="spinner" hidden>
+    <div class="spinner-ring"></div>
+    <p id="spinner-text">Removing background...</p>
+  </div>
+
+  <section id="preview-section" hidden>
+    <div class="preview-row">
+      <div class="preview-panel">
+        <p class="panel-label">Before</p>
+        <div class="img-wrap">
+          <img id="img-before" alt="Original image">
+        </div>
+      </div>
+      <div class="preview-panel">
+        <p class="panel-label">After</p>
+        <div class="img-wrap checkerboard">
+          <img id="img-after" alt="Background removed">
+        </div>
+      </div>
+    </div>
+    <button id="btn-download">Download PNG</button>
+    <button id="btn-reset">Remove another</button>
+  </section>
+
+  <!-- Sandboxed iframe: runs onnxruntime-web (which needs blob: imports) in a
+       sandbox page where Chrome allows looser CSP. Communicates via postMessage. -->
+  <iframe id="sandbox-frame" src="sandbox.html" style="display:none" sandbox="allow-scripts"></iframe>
+
+  <!-- Hidden paste target: Chrome extensions require an autofocused editable element
+       to receive clipboard paste events without the user clicking first. -->
+  <textarea id="paste-target" autofocus aria-hidden="true" tabindex="-1"></textarea>
+
+  <script type="module" src="popup.js"></script>
+</body>
+</html>
