@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Writer Assistant</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ── Welcome Screen ─────────────────────────────────────────── -->
+  <div id="screen-welcome" class="screen active">
+    <div class="welcome-container">
+      <div class="logo">
+        <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="48" height="48" rx="12" fill="#6c63ff" fill-opacity="0.15"/>
+          <path d="M12 16h8M12 22h16M12 28h12M12 34h8" stroke="#6c63ff" stroke-width="2.5" stroke-linecap="round"/>
+          <circle cx="36" cy="20" r="6" fill="#6c63ff" fill-opacity="0.3" stroke="#6c63ff" stroke-width="2"/>
+          <path d="M36 17v3.5l2 1.5" stroke="#6c63ff" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <h1>Writer Assistant</h1>
+      <p class="tagline">An AI guide for crafting your story — from idea to complete manuscript structure.</p>
+
+      <div class="welcome-steps">
+        <div class="step"><span class="step-num">1</span><span>Share your story idea &amp; characters</span></div>
+        <div class="step"><span class="step-num">2</span><span>Develop each character in depth</span></div>
+        <div class="step"><span class="step-num">3</span><span>Build your three-act structure</span></div>
+        <div class="step"><span class="step-num">4</span><span>Map out scenes &amp; chapters</span></div>
+        <div class="step"><span class="step-num">5</span><span>Download your story structure PDF</span></div>
+      </div>
+
+      <button id="btn-start" class="btn-primary btn-large">Start Writing</button>
+    </div>
+  </div>
+
+  <!-- ── Chat Screen ─────────────────────────────────────────────── -->
+  <div id="screen-chat" class="screen hidden">
+
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-left">
+        <span class="app-title">Writer Assistant</span>
+      </div>
+      <div class="header-right">
+        <button id="btn-pdf" class="btn-secondary btn-pdf hidden" title="Download Story Structure PDF">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+            <path d="M8 2v8M5 7l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M2 11v1a2 2 0 002 2h8a2 2 0 002-2v-1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+          Download PDF
+        </button>
+        <button id="btn-new-story" class="btn-ghost" title="Start a new story">New Story</button>
+      </div>
+    </header>
+
+    <!-- Phase Progress Bar -->
+    <nav class="phase-bar" id="phase-bar">
+      <div class="phase-step" data-phase="OVERVIEW">
+        <div class="phase-dot"></div>
+        <span>Overview</span>
+      </div>
+      <div class="phase-connector"></div>
+      <div class="phase-step" data-phase="CHARACTER_DEEP_DIVE">
+        <div class="phase-dot"></div>
+        <span>Characters</span>
+      </div>
+      <div class="phase-connector"></div>
+      <div class="phase-step" data-phase="STORY_STRUCTURE">
+        <div class="phase-dot"></div>
+        <span>Story Structure</span>
+      </div>
+      <div class="phase-connector"></div>
+      <div class="phase-step" data-phase="SCENE_BREAKDOWN">
+        <div class="phase-dot"></div>
+        <span>Scenes</span>
+      </div>
+      <div class="phase-connector"></div>
+      <div class="phase-step" data-phase="OPEN_EDITING">
+        <div class="phase-dot"></div>
+        <span>Refine</span>
+      </div>
+    </nav>
+
+    <!-- Chat Messages -->
+    <main class="chat-area" id="chat-messages">
+      <!-- messages rendered here by app.js -->
+    </main>
+
+    <!-- Phase Transition Card -->
+    <div id="transition-card" class="transition-card hidden">
+      <div class="transition-inner">
+        <div class="transition-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+            <circle cx="12" cy="12" r="10" stroke="#6c63ff" stroke-width="2"/>
+            <path d="M8 12l3 3 5-5" stroke="#6c63ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="transition-text">
+          <p id="transition-message">Ready to move to the next phase?</p>
+        </div>
+        <div class="transition-actions">
+          <button id="btn-transition-confirm" class="btn-primary">Continue</button>
+          <button id="btn-transition-cancel" class="btn-ghost">Keep Going</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Input Area -->
+    <footer class="input-area">
+      <div class="input-wrapper">
+        <textarea
+          id="chat-input"
+          placeholder="Tell me about your story..."
+          rows="1"
+          maxlength="4000"
+        ></textarea>
+        <button id="btn-send" class="btn-send" aria-label="Send message">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+            <path d="M4 10h12M11 5l5 5-5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </div>
+      <div class="input-hint" id="input-hint">Press Enter to send, Shift+Enter for new line</div>
+    </footer>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
