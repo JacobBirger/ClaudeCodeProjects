@@ -1,0 +1,315 @@
+2026-04-05 13:53:09,504 [INFO] ============================================================
+2026-04-05 13:53:09,505 [INFO] ClapStartup starting
+2026-04-05 13:53:09,506 [INFO] Microphone: Microphone Array (Intel® Smart 
+2026-04-05 13:53:09,507 [INFO] Calibrating ambient noise (3.0 s) …
+2026-04-05 13:53:19,431 [INFO] Ambient RMS=0.007620  threshold=0.022860
+2026-04-05 13:53:19,740 [INFO] Audio stream started — listening for double-claps
+2026-04-05 13:53:20,275 [DEBUG] First clap registered
+2026-04-05 13:53:20,785 [INFO] Double-clap confirmed (gap=0.510 s)
+2026-04-05 13:53:20,786 [INFO] Double-clap detected → launching environment
+2026-04-05 13:53:20,787 [INFO] Recent VS Code folder: c:\Users\JakeB\Downloads\ClaudeCodeProjects
+2026-04-05 13:53:20,787 [INFO] Launching VS Code: c:\Users\JakeB\Downloads\ClaudeCodeProjects
+2026-04-05 13:53:21,303 [INFO] Music started (looping)
+2026-04-05 13:53:21,353 [DEBUG] Audio status: input overflow
+2026-04-05 13:53:21,353 [DEBUG] Audio status: input overflow
+2026-04-05 13:53:25,819 [INFO] Sent command to open Claude Code tab
+2026-04-05 16:04:43,658 [INFO] ============================================================
+2026-04-05 16:04:43,658 [INFO] ClapStartup starting
+2026-04-05 16:04:43,659 [INFO] Microphone: Microphone Array (Intel® Smart 
+2026-04-05 16:04:43,660 [INFO] Calibrating ambient noise (3.0 s) …
+2026-04-05 16:04:47,581 [INFO] Ambient RMS=0.001000  threshold=0.003000
+2026-04-05 16:04:47,819 [INFO] Audio stream started — listening for double-claps
+2026-04-05 16:04:49,040 [DEBUG] First clap registered
+2026-04-05 16:05:19,523 [INFO] ============================================================
+2026-04-05 16:05:19,523 [INFO] ClapStartup starting
+2026-04-05 16:05:19,523 [INFO] Microphone: Microphone Array (Intel® Smart 
+2026-04-05 16:05:19,524 [INFO] Calibrating ambient noise (3.0 s) …
+2026-04-05 16:05:23,236 [INFO] Ambient RMS=0.001000  threshold=0.003000
+2026-04-05 16:05:23,475 [INFO] Audio stream started — listening for double-claps
+2026-04-05 16:07:45,172 [DEBUG] First clap registered
+2026-04-05 16:07:45,781 [INFO] Double-clap confirmed (gap=0.610 s)
+2026-04-05 16:07:45,782 [INFO] Double-clap detected → launching environment
+2026-04-05 16:07:45,783 [INFO] Recent VS Code folder: c:\Users\JakeB\Downloads\RobotBrawl
+2026-04-05 16:07:45,784 [INFO] Launching VS Code: c:\Users\JakeB\Downloads\RobotBrawl
+2026-04-05 16:07:46,025 [INFO] Music started (looping)
+2026-04-05 16:07:46,692 [DEBUG] Audio status: input overflow
+2026-04-05 16:07:46,701 [DEBUG] Audio status: input overflow
+2026-04-05 16:07:50,820 [INFO] Sent command to open Claude Code tab
+2026-04-05 16:07:51,349 [INFO] Music stopped
+2026-04-05 16:09:18,275 [DEBUG] First clap registered
+2026-04-05 16:09:18,691 [INFO] Double-clap confirmed (gap=0.417 s)
+2026-04-05 16:09:18,692 [INFO] Double-clap detected → launching environment
+2026-04-05 16:09:18,693 [INFO] Recent VS Code folder: c:\Users\JakeB\Downloads\RobotBrawl
+2026-04-05 16:09:18,693 [INFO] Launching VS Code: c:\Users\JakeB\Downloads\RobotBrawl
+2026-04-05 16:09:18,752 [INFO] Music started (looping)
+2026-04-05 16:09:21,992 [DEBUG] First clap registered
+2026-04-05 16:09:22,594 [INFO] Double-clap confirmed (gap=0.602 s)
+2026-04-05 16:09:22,599 [INFO] Music stopped
+2026-04-05 16:09:22,657 [INFO] Double-clap detected → launching environment
+2026-04-05 16:09:22,677 [INFO] Recent VS Code folder: c:\Users\JakeB\Downloads\RobotBrawl
+2026-04-05 16:09:22,690 [INFO] Launching VS Code: c:\Users\JakeB\Downloads\RobotBrawl
+2026-04-05 16:09:22,803 [INFO] Music started (looping)
+2026-04-05 16:09:23,747 [INFO] Sent command to open Claude Code tab
+2026-04-05 16:09:24,400 [INFO] Music stopped
+2026-04-05 16:09:25,614 [DEBUG] First clap registered
+2026-04-05 16:09:26,174 [INFO] Double-clap confirmed (gap=0.560 s)
+2026-04-05 16:09:26,175 [INFO] Double-clap detected → launching environment
+2026-04-05 16:09:26,176 [INFO] Recent VS Code folder: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 16:09:26,176 [INFO] Launching VS Code: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 16:09:26,271 [INFO] Music started (looping)
+2026-04-05 16:09:27,751 [INFO] Sent command to open Claude Code tab
+2026-04-05 16:09:28,482 [INFO] Music stopped
+2026-04-05 16:09:29,884 [DEBUG] First clap registered
+2026-04-05 16:09:30,211 [INFO] Double-clap confirmed (gap=0.328 s)
+2026-04-05 16:09:30,212 [INFO] Double-clap detected → launching environment
+2026-04-05 16:09:30,214 [INFO] Recent VS Code folder: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 16:09:30,214 [INFO] Launching VS Code: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 16:09:30,279 [INFO] Music started (looping)
+2026-04-05 16:09:31,204 [INFO] Sent command to open Claude Code tab
+2026-04-05 16:09:33,992 [INFO] Music stopped
+2026-04-05 16:09:34,151 [DEBUG] First clap registered
+2026-04-05 16:09:34,804 [INFO] Double-clap confirmed (gap=0.653 s)
+2026-04-05 16:09:34,804 [INFO] Double-clap detected → launching environment
+2026-04-05 16:09:34,805 [INFO] Recent VS Code folder: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 16:09:34,805 [INFO] Launching VS Code: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 16:09:34,859 [INFO] Music started (looping)
+2026-04-05 16:09:35,277 [INFO] Sent command to open Claude Code tab
+2026-04-05 16:09:36,942 [INFO] Music stopped
+2026-04-05 16:09:39,830 [INFO] Sent command to open Claude Code tab
+2026-04-05 16:46:18,554 [INFO] ============================================================
+2026-04-05 16:46:18,554 [INFO] ClapStartup starting
+2026-04-05 16:46:18,555 [INFO] Microphone: Microphone Array (Intel® Smart 
+2026-04-05 16:46:18,871 [INFO] Reference clap loaded — features: {'centroid': 0.2108679952692511, 'flatness': 0.11337850987911224, 'high_ratio': 0.7733582258224487, 'attack': 0.627318343495935}
+2026-04-05 16:46:18,871 [INFO] Calibrating ambient noise (3.0 s) …
+2026-04-05 16:46:22,757 [INFO] Ambient RMS=0.003826  threshold=0.011478
+2026-04-05 16:46:23,003 [INFO] Audio stream started — listening for double-claps
+2026-04-05 16:47:52,052 [DEBUG] Clap feature dist=0.7510 (tol=0.35)
+2026-04-05 16:47:52,053 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:47:52,100 [DEBUG] Clap feature dist=0.7321 (tol=0.35)
+2026-04-05 16:47:52,101 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:47:52,328 [DEBUG] Clap feature dist=0.2408 (tol=0.35)
+2026-04-05 16:47:52,329 [DEBUG] First clap registered
+2026-04-05 16:47:52,648 [DEBUG] Clap feature dist=1.3186 (tol=0.35)
+2026-04-05 16:47:52,649 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:47:52,930 [DEBUG] Clap feature dist=0.7248 (tol=0.35)
+2026-04-05 16:47:52,933 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:47:57,252 [DEBUG] Clap feature dist=0.4540 (tol=0.35)
+2026-04-05 16:47:57,253 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:47:57,622 [DEBUG] Clap feature dist=0.7173 (tol=0.35)
+2026-04-05 16:47:57,623 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:47:58,001 [DEBUG] Clap feature dist=0.4963 (tol=0.35)
+2026-04-05 16:47:58,001 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:01,402 [DEBUG] Clap feature dist=1.5874 (tol=0.35)
+2026-04-05 16:48:01,403 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:01,571 [DEBUG] Clap feature dist=1.3208 (tol=0.35)
+2026-04-05 16:48:01,572 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:01,620 [DEBUG] Clap feature dist=1.5571 (tol=0.35)
+2026-04-05 16:48:01,621 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:02,358 [DEBUG] Clap feature dist=1.4151 (tol=0.35)
+2026-04-05 16:48:02,358 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:03,010 [DEBUG] Clap feature dist=0.2769 (tol=0.35)
+2026-04-05 16:48:03,010 [DEBUG] Clap gap too long (10.683 s); resetting
+2026-04-05 16:48:04,308 [DEBUG] Clap feature dist=0.4234 (tol=0.35)
+2026-04-05 16:48:04,308 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:04,678 [DEBUG] Clap feature dist=1.2526 (tol=0.35)
+2026-04-05 16:48:04,678 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:06,820 [DEBUG] Clap feature dist=0.6296 (tol=0.35)
+2026-04-05 16:48:06,821 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:07,048 [DEBUG] Clap feature dist=1.3546 (tol=0.35)
+2026-04-05 16:48:07,049 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:07,521 [DEBUG] Clap feature dist=1.4002 (tol=0.35)
+2026-04-05 16:48:07,522 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:07,558 [DEBUG] Clap feature dist=1.3235 (tol=0.35)
+2026-04-05 16:48:07,559 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:08,260 [DEBUG] Clap feature dist=1.2493 (tol=0.35)
+2026-04-05 16:48:08,260 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:08,998 [DEBUG] Clap feature dist=0.7081 (tol=0.35)
+2026-04-05 16:48:08,998 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:09,650 [DEBUG] Clap feature dist=1.1965 (tol=0.35)
+2026-04-05 16:48:09,651 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:13,128 [DEBUG] Clap feature dist=0.4377 (tol=0.35)
+2026-04-05 16:48:13,130 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:38,308 [DEBUG] Clap feature dist=0.3950 (tol=0.35)
+2026-04-05 16:48:38,309 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:38,720 [DEBUG] Clap feature dist=0.4097 (tol=0.35)
+2026-04-05 16:48:38,745 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:38,960 [DEBUG] Clap feature dist=1.1939 (tol=0.35)
+2026-04-05 16:48:38,961 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:39,980 [DEBUG] Clap feature dist=1.3928 (tol=0.35)
+2026-04-05 16:48:39,981 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:40,020 [DEBUG] Clap feature dist=1.4003 (tol=0.35)
+2026-04-05 16:48:40,020 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:41,972 [DEBUG] Clap feature dist=0.2437 (tol=0.35)
+2026-04-05 16:48:41,973 [DEBUG] Clap gap too long (38.962 s); resetting
+2026-04-05 16:48:42,862 [DEBUG] Clap feature dist=0.4155 (tol=0.35)
+2026-04-05 16:48:42,864 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:43,090 [DEBUG] Clap feature dist=1.0926 (tol=0.35)
+2026-04-05 16:48:43,092 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:43,552 [DEBUG] Clap feature dist=0.8032 (tol=0.35)
+2026-04-05 16:48:43,555 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:43,741 [DEBUG] Clap feature dist=1.1917 (tol=0.35)
+2026-04-05 16:48:43,741 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:44,061 [DEBUG] Clap feature dist=1.2120 (tol=0.35)
+2026-04-05 16:48:44,061 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:44,170 [DEBUG] Clap feature dist=0.4015 (tol=0.35)
+2026-04-05 16:48:44,170 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:46,342 [DEBUG] Clap feature dist=0.8115 (tol=0.35)
+2026-04-05 16:48:46,343 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:46,901 [DEBUG] Clap feature dist=0.8587 (tol=0.35)
+2026-04-05 16:48:46,901 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:47,128 [DEBUG] Clap feature dist=0.4782 (tol=0.35)
+2026-04-05 16:48:47,129 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:47,220 [DEBUG] Clap feature dist=0.6521 (tol=0.35)
+2026-04-05 16:48:47,220 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:48,291 [DEBUG] Clap feature dist=0.9380 (tol=0.35)
+2026-04-05 16:48:48,292 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:48,480 [DEBUG] Clap feature dist=1.0309 (tol=0.35)
+2026-04-05 16:48:48,480 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:48,751 [DEBUG] Clap feature dist=0.2618 (tol=0.35)
+2026-04-05 16:48:48,751 [DEBUG] Clap gap too long (6.779 s); resetting
+2026-04-05 16:48:48,888 [DEBUG] Clap feature dist=0.6627 (tol=0.35)
+2026-04-05 16:48:48,890 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:48:49,170 [DEBUG] Clap feature dist=0.6309 (tol=0.35)
+2026-04-05 16:48:49,170 [DEBUG] Spike rejected: does not match reference clap profile
+2026-04-05 16:54:48,556 [INFO] ============================================================
+2026-04-05 16:54:48,556 [INFO] ClapStartup starting
+2026-04-05 16:54:48,556 [INFO] Microphone: Microphone Array (Intel® Smart 
+2026-04-05 16:54:48,930 [INFO] Loading vosk model (downloads ~50 MB on first run) …
+2026-04-05 16:54:53,604 [INFO] Vosk model ready
+2026-04-05 16:54:54,155 [INFO] Listening for: "it's time to work"
+2026-04-05 16:55:00,683 [DEBUG] Heard: "integrated circuit the cabinet by toward want to give jag it's time for"
+2026-04-05 16:55:00,686 [DEBUG] Phrase match ratio=0.69 for 'jag its time for'
+2026-04-05 16:55:00,687 [INFO] Phrase matched: "integrated circuit the cabinet by toward want to give jag it's time for"
+2026-04-05 16:55:00,687 [INFO] Trigger phrase detected → launching environment
+2026-04-05 16:55:00,690 [INFO] Recent VS Code folder: c:\Users\JakeB\Downloads\ClaudeCodeProjects
+2026-04-05 16:55:00,699 [INFO] Launching VS Code: c:\Users\JakeB\Downloads\ClaudeCodeProjects
+2026-04-05 16:55:00,972 [INFO] Music started (looping)
+2026-04-05 16:55:04,287 [INFO] Music stopped
+2026-04-05 16:55:05,740 [INFO] Sent command to open Claude Code tab
+2026-04-05 16:55:13,190 [DEBUG] Heard: "it's time to work is"
+2026-04-05 16:55:13,191 [INFO] Phrase matched: "it's time to work is"
+2026-04-05 16:55:13,192 [INFO] Trigger phrase detected → launching environment
+2026-04-05 16:55:13,193 [INFO] Recent VS Code folder: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 16:55:13,193 [INFO] Launching VS Code: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 16:55:13,243 [INFO] Music started (looping)
+2026-04-05 16:55:15,936 [DEBUG] Heard: 'huge him'
+2026-04-05 16:55:17,956 [INFO] Music stopped
+2026-04-05 16:55:18,217 [INFO] Sent command to open Claude Code tab
+2026-04-05 16:55:19,433 [DEBUG] Heard: 'because it reduces your senses'
+2026-04-05 16:55:39,688 [DEBUG] Heard: 'that'
+2026-04-05 16:55:45,683 [DEBUG] Heard: "it's"
+2026-04-05 16:56:18,168 [INFO] ============================================================
+2026-04-05 16:56:18,169 [INFO] ClapStartup starting
+2026-04-05 16:56:18,169 [INFO] Microphone: Microphone Array (Intel® Smart 
+2026-04-05 16:56:18,299 [INFO] Loading vosk model (downloads ~50 MB on first run) …
+2026-04-05 16:56:18,587 [INFO] Vosk model ready
+2026-04-05 16:56:19,200 [INFO] Listening for: "it's time to work"
+2026-04-05 16:56:21,256 [DEBUG] Heard: 'one of it'
+2026-04-05 16:56:23,261 [DEBUG] Heard: 'the guards'
+2026-04-05 16:56:26,988 [DEBUG] Heard: "the right now it's time to work"
+2026-04-05 16:56:26,988 [INFO] Phrase matched: "the right now it's time to work"
+2026-04-05 16:56:26,989 [INFO] Trigger phrase detected → launching environment
+2026-04-05 16:56:26,990 [INFO] Recent VS Code folder: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 16:56:26,990 [INFO] Launching VS Code: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 16:56:29,246 [INFO] Music started (looping)
+2026-04-05 16:56:29,490 [DEBUG] Heard: 'as well'
+2026-04-05 16:56:32,029 [INFO] Sent command to open Claude Code tab
+2026-04-05 16:56:34,743 [DEBUG] Heard: 'for them'
+2026-04-05 16:56:36,093 [DEBUG] Heard: 'i account'
+2026-04-05 16:56:40,675 [INFO] Music stopped
+2026-04-05 16:56:41,859 [DEBUG] Heard: "epidemic temple the kennedys less credible they really don't like i back"
+2026-04-05 16:56:47,755 [DEBUG] Heard: 'author we were the ones who really stomper the can turn on lights or make bad choices tell your head got some again'
+2026-04-05 16:56:50,760 [DEBUG] Heard: 'use that money or out'
+2026-04-05 17:00:13,930 [INFO] ============================================================
+2026-04-05 17:00:13,930 [INFO] ClapStartup starting
+2026-04-05 17:00:13,930 [INFO] Microphone: Microphone Array (Intel® Smart 
+2026-04-05 17:00:14,056 [INFO] Loading vosk model (downloads ~50 MB on first run) …
+2026-04-05 17:00:14,359 [INFO] Vosk model ready
+2026-04-05 17:00:14,905 [INFO] Listening for: "it's time to work"
+2026-04-05 17:00:19,202 [DEBUG] Heard: 'i can hatch'
+2026-04-05 17:00:23,241 [DEBUG] Heard: 'i have my computer eight year right'
+2026-04-05 17:00:33,702 [DEBUG] Heard: 'and yet on doing stuff and doing stuff on target other people but i can say like you know what is going trump you can hear week after was nothing tullow can hear you know'
+2026-04-05 17:00:42,200 [DEBUG] Heard: "okay that kind of days ago so i'm like i'm like okay that's enough scan and i says at"
+2026-04-05 17:00:48,962 [DEBUG] Heard: 'and then i set have to have some connection with his to listen to this law the'
+2026-04-05 17:00:50,465 [DEBUG] Heard: 'hello'
+2026-04-05 17:01:00,449 [DEBUG] Heard: "shut up the shortest a shop so i'm talking to somebody i'm talking to somebody and i'm like okay that's enough you know and then i say it's time to work"
+2026-04-05 17:01:00,449 [INFO] Phrase matched: "shut up the shortest a shop so i'm talking to somebody i'm talking to somebody and i'm like okay that's enough you know and then i say it's time to work"
+2026-04-05 17:01:00,451 [INFO] Trigger phrase detected → launching environment
+2026-04-05 17:01:00,452 [INFO] Recent VS Code folder: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 17:01:00,453 [INFO] Launching VS Code: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 17:01:02,726 [INFO] Music started (looping)
+2026-04-05 17:01:04,710 [DEBUG] Heard: 'and then'
+2026-04-05 17:01:05,482 [INFO] Sent command to open Claude Code tab
+2026-04-05 17:01:07,952 [DEBUG] Heard: 'vs coat opens in this leaders window'
+2026-04-05 17:01:11,542 [INFO] Music stopped
+2026-04-05 17:01:15,699 [DEBUG] Heard: "right here and it starts playing is over and over by frank sinatra so he knows that it's time for me to focus on my stuff"
+2026-04-05 17:01:15,699 [DEBUG] Phrase match ratio=0.67 for 'that its time for'
+2026-04-05 17:01:15,700 [INFO] Phrase matched: "right here and it starts playing is over and over by frank sinatra so he knows that it's time for me to focus on my stuff"
+2026-04-05 17:01:15,701 [INFO] Trigger phrase detected → launching environment
+2026-04-05 17:01:15,702 [INFO] Recent VS Code folder: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 17:01:15,702 [INFO] Launching VS Code: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 17:01:17,739 [INFO] Music started (looping)
+2026-04-05 17:01:19,478 [DEBUG] Heard: "the gym it's it's pretty simple"
+2026-04-05 17:01:19,727 [INFO] Music stopped
+2026-04-05 17:01:20,733 [INFO] Sent command to open Claude Code tab
+2026-04-05 17:01:22,707 [DEBUG] Heard: "it's awesome"
+2026-04-05 17:01:32,949 [DEBUG] Heard: 'the as off since also as i think that and think the cause ancient the'
+2026-04-05 17:01:34,457 [DEBUG] Heard: 'the'
+2026-04-05 17:01:36,459 [DEBUG] Heard: "no it's awesome"
+2026-04-05 17:01:41,201 [DEBUG] Heard: "this is course now i don't need to manually is open it"
+2026-04-05 17:01:52,704 [DEBUG] Heard: 'loud as dude for me i just have to say very specific set of words that also i get to say one of the words and images which is unfair which is kind of an issue that have to fix the they could probably just say work'
+2026-04-05 17:02:00,197 [DEBUG] Heard: "it's a good thing is a not cut the most okay time that back to work"
+2026-04-05 17:02:00,197 [DEBUG] Phrase match ratio=0.61 for 'that back to work'
+2026-04-05 17:02:00,197 [INFO] Phrase matched: "it's a good thing is a not cut the most okay time that back to work"
+2026-04-05 17:02:00,198 [INFO] Trigger phrase detected → launching environment
+2026-04-05 17:02:00,199 [INFO] Recent VS Code folder: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 17:02:00,199 [INFO] Launching VS Code: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 17:02:02,252 [INFO] Music started (looping)
+2026-04-05 17:02:04,657 [INFO] Music stopped
+2026-04-05 17:02:05,241 [INFO] Sent command to open Claude Code tab
+2026-04-05 17:02:06,707 [DEBUG] Heard: "the is the and now it's starts launching a at about nine is beautiful for his"
+2026-04-05 17:02:08,450 [DEBUG] Heard: 'occur'
+2026-04-05 17:02:10,698 [DEBUG] Heard: 'but the point is'
+2026-04-05 18:45:00,969 [INFO] ============================================================
+2026-04-05 18:45:00,970 [INFO] ClapStartup starting
+2026-04-05 18:45:00,971 [INFO] Microphone: Microphone Array (Intel® Smart 
+2026-04-05 18:45:01,318 [INFO] Loading vosk model (downloads ~50 MB on first run) …
+2026-04-05 18:45:02,213 [INFO] Vosk model ready
+2026-04-05 18:45:03,653 [INFO] Listening for: "it's time to work"
+2026-04-05 18:45:08,718 [DEBUG] Heard: 'the pay'
+2026-04-05 18:45:13,969 [DEBUG] Heard: 'judis should work club and i remember accent'
+2026-04-05 18:45:18,711 [DEBUG] Heard: "so for example if i say it's time to work"
+2026-04-05 18:45:18,713 [INFO] Phrase matched: "so for example if i say it's time to work"
+2026-04-05 18:45:18,714 [INFO] Trigger phrase detected → launching environment
+2026-04-05 18:45:18,717 [INFO] Recent VS Code folder: c:\Users\JakeB\Downloads\ClaudeCodeProjects
+2026-04-05 18:45:18,718 [INFO] Launching VS Code: c:\Users\JakeB\Downloads\ClaudeCodeProjects
+2026-04-05 18:45:22,467 [INFO] Music started (looping)
+2026-04-05 18:45:22,897 [DEBUG] Audio status: input overflow
+2026-04-05 18:45:23,797 [INFO] Sent command to open Claude Code tab
+2026-04-05 18:45:26,520 [DEBUG] Heard: 'also plans'
+2026-04-05 18:45:27,738 [DEBUG] Heard: 'we knew'
+2026-04-05 18:45:30,743 [DEBUG] Heard: 'by frank sinatra'
+2026-04-05 18:45:33,824 [INFO] Music stopped
+2026-04-05 18:45:36,755 [DEBUG] Heard: 'and that stuff'
+2026-04-05 18:45:39,250 [DEBUG] Heard: 'good work'
+2026-04-05 18:45:42,253 [DEBUG] Heard: 'yeah'
+2026-04-05 18:45:44,765 [DEBUG] Heard: 'we see it was just everything you say'
+2026-04-05 18:45:46,996 [DEBUG] Heard: 'which is not very high'
+2026-04-05 18:45:51,249 [DEBUG] Heard: "oh she's not very high"
+2026-04-05 18:46:00,266 [DEBUG] Heard: 'it gets in the only thing and needs to hear is the the for his'
+2026-04-05 18:46:00,268 [DEBUG] Phrase match ratio=0.67 for 'is the the for'
+2026-04-05 18:46:00,269 [INFO] Phrase matched: 'it gets in the only thing and needs to hear is the the for his'
+2026-04-05 18:46:00,271 [INFO] Trigger phrase detected → launching environment
+2026-04-05 18:46:00,275 [INFO] Recent VS Code folder: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 18:46:00,276 [INFO] Launching VS Code: c:\Users\JakeB\OneDrive\Desktop\stat207\jbirger2
+2026-04-05 18:46:01,991 [DEBUG] Heard: "it's time to work"
+2026-04-05 18:46:03,323 [INFO] Music started (looping)
+2026-04-05 18:46:03,616 [DEBUG] Audio status: input overflow
+2026-04-05 18:46:05,364 [INFO] Sent command to open Claude Code tab
+2026-04-05 18:46:06,839 [DEBUG] Heard: 'destroyed'
+2026-04-05 18:46:09,692 [DEBUG] Heard: 'sebastian'
+2026-04-05 18:46:11,079 [DEBUG] Heard: "it's"
+2026-04-05 18:46:17,846 [DEBUG] Heard: "do you think it's that powerful enough for insult struck by the it would not to some"
+2026-04-05 18:46:20,811 [INFO] Music stopped
+2026-04-05 18:46:22,091 [DEBUG] Heard: 'the'
+2026-04-05 18:46:26,333 [DEBUG] Heard: 'the birds birthday'
